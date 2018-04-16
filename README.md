@@ -2,7 +2,7 @@
 Links to Portuguese Demoscene stuff
 
 
-# General demoscene explained link
+# Demoscene Explained
 
 [wikipedia article](https://en.wikipedia.org/wiki/Demoscene)
 
@@ -21,7 +21,7 @@ Links to Portuguese Demoscene stuff
 [demoparty.net](http://demoparty.net)
 
 
-# Portuguese scene
+# Portuguese Demoscene
 
 [List of portuguese demoscene releases at pouet](http://www.pouet.net/lists.php?which=2)
 
