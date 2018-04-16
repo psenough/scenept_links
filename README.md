@@ -20,6 +20,13 @@ Links to Portuguese Demoscene stuff
 
 [demoparty.net](http://demoparty.net)
 
+[tooll.io](http://tooll.io)
+
+[shadertoy](http://shadertoy.com)
+
+[the book of shaders](https://thebookofshaders.com/01/)
+
+[iq videos](https://www.youtube.com/channel/UCdmAhiG8HQDlz8uyekw4ENw)
 
 # Portuguese Demoscene
 
